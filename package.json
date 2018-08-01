@@ -1,6 +1,6 @@
 {
   "name": "auth-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Middleware that checks if user is authenticated.",
   "main": "index.js",
   "keywords": [
