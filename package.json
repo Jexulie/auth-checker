@@ -1,5 +1,5 @@
 {
-  "name": "authchecker",
+  "name": "auth-checker",
   "version": "0.1.0",
   "description": "A Middleware that checks if user is authenticated.",
   "main": "index.js",
