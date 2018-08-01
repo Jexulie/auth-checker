@@ -1,0 +1,9 @@
+{
+  "name": "authchecker",
+  "version": "0.1.0",
+  "description": "A Middleware that checks if user is authenticated.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "jexulie",
+  "license": "MIT"
+}
