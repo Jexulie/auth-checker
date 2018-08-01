@@ -27,4 +27,4 @@ $ npm install auth-checker
 ```
 
 ## License
-[MIT](https://github.com/Jexulie/auth-checker/master/LICENSE)
+[MIT](https://github.com/Jexulie/auth-checker/blob/master/LICENSE)
