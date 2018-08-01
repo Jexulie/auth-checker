@@ -14,14 +14,9 @@ $ npm install auth-checker
 ```javascript
     var authchecker = require('auth-checker');
 
-    // call middleware and enter routes.
-    // (success route is optional)
-    app.use(authchecker('/success', '/fail'));
-
-
-
     // use middleware on routes to check authentication
-    app.get('/myprecious', authchecker, (req, res) => {
+    // (success route is optional)
+    app.get('/myprecious', authchecker('/routeToHell', '/routeToMyPrecious'), (req, res) => {
         // do your stuff...
     }) ;
 ```

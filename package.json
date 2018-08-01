@@ -1,9 +1,17 @@
 {
   "name": "auth-checker",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A Middleware that checks if user is authenticated.",
   "main": "index.js",
-  "keywords": [],
+  "keywords": [
+    "auth",
+    "authentication",
+    "passport.js",
+    "passport",
+    "check",
+    "routes",
+    "redirect"
+  ],
   "author": "jexulie",
   "license": "MIT"
 }
